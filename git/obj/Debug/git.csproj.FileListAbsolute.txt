@@ -8,3 +8,4 @@ C:\Users\Lily\source\repos\git\git\obj\Debug\git.csproj.GenerateResource.cache
 C:\Users\Lily\source\repos\git\git\obj\Debug\git.csproj.CoreCompileInputs.cache
 C:\Users\Lily\source\repos\git\git\obj\Debug\git.exe
 C:\Users\Lily\source\repos\git\git\obj\Debug\git.pdb
+C:\Users\Lily\source\repos\git\git\obj\Debug\git.Form2.resources
